@@ -20,6 +20,9 @@ public class TestController {
 
     @RequestMapping("toTest")
     public String toTest(){
+
+        System.out.println("fs111111111");
+
         return "test";
     }
 
