@@ -21,7 +21,7 @@ public class TestController {
     @RequestMapping("toTest")
     public String toTest(){
 
-        System.out.println("fs111111111");
+        System.out.println("fs22222222");
 
         return "test";
     }
